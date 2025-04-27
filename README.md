@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Basar 👋
 
-<!--
-**basarbr7/basarbr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Front-End Developer** specializing in **React** and **Tailwind CSS**.  
+Passionate about building responsive and user-friendly web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- ⚛️ React
+- 🎨 Tailwind CSS
+- 📜 JavaScript (ES6+)
+- 🛠️ Redux
+
+---
+
+## 📂 Projects
+
+- 🔗 [Weather App](https://weather-app2-silk-alpha.vercel.app)
+- 🔗 [Todo App](https://todo-list-one-theta-38.vercel.app/)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **basarbr7@gmail.com**
+
+---
