@@ -1,10 +1,10 @@
 <!-- Animated Image / Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Basar's Coding Animation" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Basar</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="Basar's Coding Animation" />
+</p>
 
 ---
 
@@ -43,9 +43,16 @@
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/md-abul-basar-398651193" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:basarbr7@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/md-abul-basar-398651193" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:basarbr7@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
+  </a>
 </p>
+
+
 
 ---
 
