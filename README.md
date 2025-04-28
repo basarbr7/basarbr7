@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Basar</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="Basar's Coding Animation" />
-</p>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+
+
 
 ---
 
@@ -16,6 +17,8 @@
 - ⚡ Fun fact: I love clean UI and solving complex JavaScript problems!
 
 ---
+
+  <img align="right" src="https://komarev.com/ghpvc/?username=basarbr7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 ### 🛠️ My Skills
 
@@ -30,14 +33,20 @@
 ![Redux](https://img.shields.io/badge/Redux-40%25-violet)
 ![Next.js](https://img.shields.io/badge/Next.js-30%25-black)
 
-
 ---
 
-### 📈 GitHub Stats
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Basar's GitHub stats" />
+  <a href="https://github.com/basarbr7">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=basarbr7&show_icons=true&theme=radical" alt="Basar's GitHub stats"/>
+  </a>
+  <a href="https://github.com/basarbr7">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basarbr7&layout=compact&theme=radical" alt="Top Languages"/>
+  </a>
 </p>
+
 
 ---
 
@@ -51,7 +60,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
   </a>
 </p>
-
 
 
 ---
