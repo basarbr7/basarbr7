@@ -32,6 +32,7 @@
 ![React](https://img.shields.io/badge/React-45%25-lightblue)
 ![Redux](https://img.shields.io/badge/Redux-40%25-violet)
 ![Next.js](https://img.shields.io/badge/Next.js-30%25-black)
+![Next.js](https://img.shields.io/badge/Typescript.js-60%25-red)
 
 ---
 
